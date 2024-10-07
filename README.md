@@ -9,10 +9,10 @@
 
 ## Demo
 
-![Screenshot1](demo_screenshots/Screen Shot 2024-10-07 at 16.33.10.png)
+![Screenshot1](demo_screenshots/screenshot1.png)
 
-![Screenshot2](demo_screenshots/Screen Shot 2024-10-07 at 16.35.56.png)
+![Screenshot2](demo_screenshots/screenshot2.png)
 
-![Screenshot3](demo_screenshots/Screen Shot 2024-10-07 at 16.41.21.png)
+![Screenshot3](demo_screenshots/screenshot3.png)
 
-![Screenshot4](demo_screenshots/Screen Shot 2024-10-07 at 16.41.48.png)
+![Screenshot4](demo_screenshots/screenshot4.png)
