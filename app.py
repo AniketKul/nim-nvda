@@ -33,7 +33,7 @@ def vector_embedding():
 
         print('Hi there!')
 
-        # vector openai embeddings i.e. our FAISS vector database
+        # vector embeddings i.e. our FAISS vector database
         st.session_state.vectors = FAISS.from_documents(st.session_state.final_documents, 
                                                         st.session_state.embeddings)
 
